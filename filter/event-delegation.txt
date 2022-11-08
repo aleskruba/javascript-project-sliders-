@@ -1,0 +1,5 @@
+document.querySelector("category).addEventListener('click',(e)=>{
+		if (e.target.tagName == 'LI' {
+		window.location = '/'  + e.target.id
+		}
+})
